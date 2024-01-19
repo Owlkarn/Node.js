@@ -1,6 +1,6 @@
 # Project Name
 
-password_generator
+@owlkarn/password_generator
 
 ## Installation
 
