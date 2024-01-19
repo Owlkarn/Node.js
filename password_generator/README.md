@@ -8,7 +8,7 @@ npm install @owlkarn/password_generator
 
 ## Usage
 
-const generatePassword = require('password_generator');
+const generatePassword = require('@owlkarn/password_generator');
 
 //Example 1: Generate a default password (12 characters, letters, numbers, special characters)  
 const passwordDefault = generatePassword();  

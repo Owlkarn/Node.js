@@ -2,6 +2,7 @@
 require('colors');
 
 const calculateResultSum = require("./calc.js")
+const generatePassword = require('@owlkarn/password_generator');
 
 const total = calculateResultSum([12.1, 32.2, 43.1], 0.9);
 const text = "Общая стоимость покупок " + total;
