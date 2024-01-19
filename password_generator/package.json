@@ -1,0 +1,16 @@
+{
+  "name": "password_generator",
+  "version": "1.0.0",
+  "description": "A simple library for generating random and secure passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "security"
+  ],
+  "author": "Owl",
+  "license": "ISC"
+}
