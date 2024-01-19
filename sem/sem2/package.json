@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@owlkarn/password_generator": "^1.0.0",
     "colors": "^1.4.0",
     "number-precision": "^1.6.0"
   }
