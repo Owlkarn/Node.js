@@ -1,6 +1,6 @@
 {
   "name": "@owlkarn/password_generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple library for generating random and secure passwords",
   "main": "index.js",
   "scripts": {

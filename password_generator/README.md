@@ -35,4 +35,6 @@ If you would like to contribute to this project, feel free to open issues or sub
 
 ## History
 
-1.0.0 (January 2024): Initial release
+1.0.0 (January 2024): Initial release  
+1.0.1 (January 2024): Project name change  
+1.0.2 (January 2024): Readme change
